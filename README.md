@@ -1,20 +1,56 @@
-# NetflixDataset_Tableau_DashBoard
-This project leverages Tableau to analyze Netflix’s global catalog of movies and TV shows. Using the official Netflix Titles Dataset, the dashboard provides an interactive exploration of trends across time, geography, ratings, and genres, offering a data-driven view of the streaming giant’s content strategy.
+# 🎥 Netflix Titles Analysis – Tableau Dashboard
+# 📌 Overview
 
-# Key Insights
+This project provides an interactive Tableau dashboard built on the Netflix Titles Dataset. The goal is to uncover trends in Netflix’s global catalog of movies and TV shows, analyzing their growth, distribution, genres, ratings, and geographic spread.
 
-Content Growth: Significant rise in new additions after 2015, with a peak around 2018–2019.
+# 📂 Dataset
 
-Movies vs. TV Shows: Movies dominate the platform with 68.42% share, while TV shows account for 31.58%.
+Source: Netflix Titles Dataset
 
-Global Distribution: United States and India lead in content production, followed by the UK and Canada.
+Columns: Show ID, Title, Type, Director, Cast, Country, Date Added, Release Year, Rating, Duration, Genre, Description
 
-Ratings Breakdown: TV-MA and TV-14 are the most common ratings, reflecting Netflix’s focus on mature audiences.
+Size: ~6,000+ entries
 
-Top Genres: Documentaries, Stand-Up Comedy, Dramas, and Kids’ TV emerge as the most popular categories.
+# 📊 Dashboard Features
 
-Interactivity: Users can filter by Title, Release Year, Genre, Rating, and Duration to deep dive into specific content.
+Content Growth Over Time – Track the rise of movies and TV shows on Netflix (2008–2020).
 
-# Outcome
+Distribution by Type – Compare share of Movies (68.42%) vs. TV Shows (31.58%).
 
-This dashboard transforms raw CSV data into meaningful insights, enabling users to explore Netflix’s catalog through an intuitive visual interface. It highlights Netflix’s growth strategy, genre focus, and global expansion, serving as a valuable resource for content analysis and business intelligence.
+Geographic Spread – Explore global contributions to Netflix’s catalog.
+
+Ratings Breakdown – Insights into audience targeting (TV-MA, TV-14, etc.).
+
+Top Genres – Most common categories such as Documentaries, Stand-Up Comedy, Dramas, and Kids’ TV.
+
+Interactive Filters – Filter by Title, Release Year, Genre, Rating, and Duration.
+
+# 🔍 Key Insights
+
+Netflix expanded rapidly post-2015, with content peaks around 2018–2019.
+
+Majority of the content is Movies, indicating Netflix’s strong film library.
+
+US and India dominate content production, reflecting global reach.
+
+Mature ratings (TV-MA, TV-14) are most prevalent, highlighting audience focus.
+
+Genres like Documentaries & Stand-Up Comedy gained strong traction.
+
+# 🚀 Outcome
+
+This Tableau project showcases the power of data visualization for business intelligence. By transforming raw CSV data into interactive insights, it provides a deeper understanding of Netflix’s content strategy and evolution over time.
+
+# 🛠️ How to Use
+
+Clone this repository
+
+Open the .twb file in Tableau Desktop / Tableau Public
+
+Load the netflix_titles.csv dataset
+
+Interact with filters & visuals to explore insights
+
+👨‍💻 Author
+
+Rais Sayyed – Electronics & Telecommunication Engineer | Data Analytics Enthusiast
