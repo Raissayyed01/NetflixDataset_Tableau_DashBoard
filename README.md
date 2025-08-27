@@ -41,6 +41,10 @@ Genres like Documentaries & Stand-Up Comedy gained strong traction.
 
 This Tableau project showcases the power of data visualization for business intelligence. By transforming raw CSV data into interactive insights, it provides a deeper understanding of Netflix’s content strategy and evolution over time.
 
+# 📸 Dashboard Preview  
+
+![image alt](https://github.com/Raissayyed01/NetflixDataset_Tableau_DashBoard/blob/75a130768cefe4dc1d543f24d56e242f636ff08a/NetFlix%20Dashboard.png)
+
 # 🛠️ How to Use
 
 Clone this repository
